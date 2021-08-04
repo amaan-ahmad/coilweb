@@ -1,0 +1,7 @@
+* {
+  font-family: sans-serif;
+}
+
+#root-container {
+  margin-left: calc(200px + 0.4rem);
+}
